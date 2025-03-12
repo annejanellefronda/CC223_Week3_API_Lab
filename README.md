@@ -1,1 +1,3 @@
-This project is a hands-on exploration of building an API using JavaScript. It includes features like user registration, login, and secure access to protected routes. Additionally, a product service is included to simulate a microservice for fetching product data. Both services are tested and explored interactively using Postman.
+This activity is an exploration in setting up an API Project created with JavaScript, with user-related services such as Registration, Login, and User-authentication/entrance to a Protected Route. There is an additional Product Service for simulation of microservice, which is usable in Fetching Products. Both are tested and explored in an interactive manner using Postman.
+
+Pair: Almario, Via Ysabelle B.
