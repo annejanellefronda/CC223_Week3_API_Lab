@@ -1,1 +1,1 @@
-# week3-api-lab
+This project is a hands-on exploration of building an API using JavaScript. It includes features like user registration, login, and secure access to protected routes. Additionally, a product service is included to simulate a microservice for fetching product data. Both services are tested and explored interactively using Postman.
